@@ -1,0 +1,5 @@
+{'eqw.txt', 'eqw (another copy).txt', 'eqw (copy).txt'}
+{'qwe (3rd copy).txt', 'qwe (another copy).txt', 'qwe.txt', 'qwe (copy).txt'}
+{'test.txt'}
+{'test_gender.py'}
+{'Задание.txt', 'Задание (3rd copy).txt', 'Задание (another copy).txt', 'Задание (4th copy).txt', 'Задание (copy).txt'}
